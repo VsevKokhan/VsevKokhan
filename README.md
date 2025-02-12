@@ -11,17 +11,14 @@
 - Использованы в основном **ASP.NET Core, PostgreSQL, Docker**.  
 - (Из интересного -  система аутентификации/авторизации/регистрации с jwt и refresh токенами).  
 
-### 🚀 [Название проекта 2](ССЫЛКА НА РЕПО)  Пока в проекте
+### 🚀 [Название проекта 2](ТУТ БУДЕТ ССЫЛКА)  Пока в проекте
 **Роль**: Техлид  
 - (Краткое описание проекта).  
 - Использованы **Python, Docker**.  
 
 ## 📖 Пишу на хабре интересные статьи  
-✍️ [ССЫЛКА_НА_ХАБР](https://habr.com/ru/users/VsevKokhan/articles/sandbox/)
+✍️ [ССЫЛКА НА ХАБР](https://habr.com/ru/users/VsevKokhan/articles/sandbox/)
 
 ## 📫 Как связаться?  
 - GitHub: [github.com/VsevKokhan](https://github.com/VsevKokhan)  
 - тг:  @Vsev_Evgeni4
-
-## 📊 GitHub Статистика  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VsevKokhan&show_icons=true&theme=dark)
