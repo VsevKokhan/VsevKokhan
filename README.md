@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет! 👋 Я Всеволод  
 
-<!--
-**VsevKokhan/VsevKokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент ИТМО и .NET-разработчик, увлекаюсь бэкендом и DevOps.  
+Люблю писать чистый и эффективный код, работать с высоконагруженными системами и изучать новые технологии.  
 
-Here are some ideas to get you started:
+## 🔥 Проекты  созданные мной (некоммерческие)
+Так получилось что мои «pet проекты» - результаты курсовых работы университета, поэтому:
+### 🎯 [Бэкенд для приложения для микрообучения](https://github.com/VsevKokhan/ItmoProject)  
+**Роль**: Техлид, бэкенд-разработчик  
+- Проект из курса университета, где я отвечал за архитектуру и серверную часть.  
+- Использованы в основном **ASP.NET Core, PostgreSQL, Docker**.  
+- (Из интересного -  система аутентификации/авторизации/регистрации с jwt и refresh токенами).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 [Название проекта 2](ССЫЛКА НА РЕПО)  Пока в проекте
+**Роль**: Техлид  
+- (Краткое описание проекта).  
+- Использованы **Python, Docker**.  
+
+## 📖 Пишу на хабре интересные статьи  
+✍️ [ССЫЛКА_НА_ХАБР](https://habr.com/ru/users/VsevKokhan/articles/sandbox/)
+
+## 📫 Как связаться?  
+- GitHub: [github.com/VsevKokhan](https://github.com/VsevKokhan)  
+- тг:  @Vsev_Evgeni4
+
+## 📊 GitHub Статистика  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VsevKokhan&show_icons=true&theme=dark)
